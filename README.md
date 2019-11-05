@@ -1,4 +1,4 @@
-# Node.js + Docker example project
+# Node.js + Docker Toolbox on Windows 10 Home
 
 ## Build
 ```
