@@ -1,16 +1,16 @@
-#Node.js + Docker example project
+Node.js + Docker example project
 
-##Build
+Build
 ```
 docker build -t xxdameanxx/nodedockerexample .
 ```
 
-##Run
+Run
 ```
 docker run -d -p 8000:3000 --name nodedockerexample xxdameanxx/nodedockerexample
 ```
 
-##Mounting windows folders as volumes
+Mounting windows folders as volumes
 
 ```
 #Instructions to use docker volumes on windows when using docker-toolbox
